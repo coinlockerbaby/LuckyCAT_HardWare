@@ -34,7 +34,7 @@
 
 ## 实物展示
 
-![front](C:\Env\hpm_env\hardware\pic\front.jpg)
+![loading-ag-229](pic/front.jpg "front")
 
 ## 💻软件例程
 
@@ -69,5 +69,3 @@
 | FOC_Shield | 带一个PMSM/BLDC+FDCAN |      |
 | DCU_Shield | 4xFDCAN            |      |
 |            |                    |      |
-
-
