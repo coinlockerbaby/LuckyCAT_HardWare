@@ -40,12 +40,13 @@
 
 [💻 例程源码仓库](https://github.com/coinlockerbaby/LuckyCAT_SoftWare)
 
-| 例程名           | 运行现象                             | 相关外设 |
-| ------------- | -------------------------------- | ---- |
-| 1_led_blink   | 运行工程，板载LED将进行闪烁                  | GPIO |
-| 2_key         | 运行工程，按下B0按钮板载LED亮起，按下B1按钮板载LED灭掉 | GPIO |
-| 3_oled_sw_i2c | 运行工程，屏幕开始显示                      | GPIO |
-|               |                                  |      |
+| 例程名                                                                                               | 运行现象                                                 | 相关外设 |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---- |
+| [1_led_blink](https://github.com/coinlockerbaby/LuckyCAT_SoftWare/tree/main/demo/1_led_blink)     | 运行工程，板载LED将进行闪烁                                      | GPIO |
+| [2_key](https://github.com/coinlockerbaby/LuckyCAT_SoftWare/tree/main/demo/2_key)                 | 运行工程，按下B0按钮板载LED亮起，按下B1按钮板载LED灭掉                     | GPIO |
+| [3_oled_sw_i2c](https://github.com/coinlockerbaby/LuckyCAT_SoftWare/tree/main/demo/3_oled_sw_i2c) | 运行工程，屏幕开始显示                                          | GPIO |
+| [4_ethercat_io](https://github.com/coinlockerbaby/LuckyCAT_SoftWare/tree/main/demo/4_ethercat_io) | 运行工程，使用twincat扫码从站，写0关闭led灯，写非0打开led灯，并且板载OLED会显示写入值 | ESC  |
+|                                                                                                   |                                                      |      |
 
 ## 📺入门视频
 
@@ -65,7 +66,9 @@
 
 | 拓展板名       | 功能(计划)             | 开源链接 |
 | ---------- | ------------------ | ---- |
-| PLC_Shield | 数字IO+模拟IO+RS485    |      |
-| FOC_Shield | 带一个PMSM/BLDC+FDCAN |      |
-| DCU_Shield | 4xFDCAN            |      |
+| PLC_Shield | 数字IO+模拟IO+RS485    | 待开发  |
+| FOC_Shield | 带一个PMSM/BLDC+FDCAN | 待开发  |
+| DCU_Shield | 4xFDCAN            | 待开发  |
 |            |                    |      |
+
+
