@@ -32,6 +32,10 @@
 
 <img src="pic/pinout.png" title="pinout" alt="loading-ag-98" style="zoom:67%;">
 
+## 实物展示
+
+![front](C:\Env\hpm_env\hardware\pic\front.jpg)
+
 ## 💻软件例程
 
 [💻 例程源码仓库](https://github.com/coinlockerbaby/LuckyCAT_SoftWare)
@@ -65,8 +69,6 @@
 | FOC_Shield | 带一个PMSM/BLDC+FDCAN |      |
 | DCU_Shield | 4xFDCAN            |      |
 |            |                    |      |
-
-
 
 
 
