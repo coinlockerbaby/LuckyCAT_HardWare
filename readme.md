@@ -1,4 +1,6 @@
-<img title="Logo_black" src="pic/Logo_black.png" alt="loading-ag-242" style="zoom:25%;" data-align="center">
+<p align="center">
+  <img src="pic/Logo_black.png" alt="Logo" width="300" height="300">
+</p>
 
 ## 📒 简介
 
@@ -63,5 +65,9 @@
 | FOC_Shield | 带一个PMSM/BLDC+FDCAN |      |
 | DCU_Shield | 4xFDCAN            |      |
 |            |                    |      |
+
+
+
+
 
 
